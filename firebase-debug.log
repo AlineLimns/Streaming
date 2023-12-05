@@ -1,0 +1,50 @@
+[debug] [2023-12-04T23:34:07.877Z] ----------------------------------------------------------------------
+[debug] [2023-12-04T23:34:07.880Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\aline\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2023-12-04T23:34:07.880Z] CLI Version:   12.9.1
+[debug] [2023-12-04T23:34:07.881Z] Platform:      win32
+[debug] [2023-12-04T23:34:07.881Z] Node Version:  v20.10.0
+[debug] [2023-12-04T23:34:07.881Z] Time:          Mon Dec 04 2023 20:34:07 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-04T23:34:07.881Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-04T23:34:07.886Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2023-12-04T23:34:07.887Z] > authorizing via signed-in user (aline.ise.am@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\aline\Desktop\Streaming
+
+[debug] [2023-12-04T23:55:19.613Z] ----------------------------------------------------------------------
+[debug] [2023-12-04T23:55:19.616Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\aline\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js login
+[debug] [2023-12-04T23:55:19.616Z] CLI Version:   12.9.1
+[debug] [2023-12-04T23:55:19.616Z] Platform:      win32
+[debug] [2023-12-04T23:55:19.616Z] Node Version:  v20.10.0
+[debug] [2023-12-04T23:55:19.616Z] Time:          Mon Dec 04 2023 20:55:19 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-04T23:55:19.616Z] ----------------------------------------------------------------------
+[debug] 
+[info] Already logged in as aline.ise.am@gmail.com
+[debug] [2023-12-04T23:55:29.696Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\aline\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
+[debug] [2023-12-04T23:56:08.813Z] ----------------------------------------------------------------------
+[debug] [2023-12-04T23:56:08.816Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\aline\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2023-12-04T23:56:08.816Z] CLI Version:   12.9.1
+[debug] [2023-12-04T23:56:08.816Z] Platform:      win32
+[debug] [2023-12-04T23:56:08.816Z] Node Version:  v20.10.0
+[debug] [2023-12-04T23:56:08.816Z] Time:          Mon Dec 04 2023 20:56:08 GMT-0300 (Horário Padrão de Brasília)
+[debug] [2023-12-04T23:56:08.816Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2023-12-04T23:56:13.877Z] Error: Timed out.
+    at Timeout._onTimeout (C:\Users\aline\AppData\Roaming\npm\node_modules\firebase-tools\lib\utils.js:254:49)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[error] 
+[error] Error: An unexpected error has occurred.
